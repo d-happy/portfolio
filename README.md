@@ -38,6 +38,6 @@
 >기술 스택:  
 >Java 8 / Spring / Maven / MyBatis / Oracle / jQuery
 >  
->[프로젝트 상세 설명](https://www.slideshare.net/ssuser2d94ba/greenfood-project?qid=25934f8d-4215-4db4-9fad-c2f39a4dba3f&v=&b=&from_search=1) 참고
+>[프로젝트 상세 설명](https://github.com/9ym/GreenFood) 참고
 
 ---
