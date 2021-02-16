@@ -19,7 +19,7 @@
 </br>
 
 ## :file_folder: Projects
-
+<!---
 ### 1. [두 번째 프로젝트]()
 >두 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2021.2.17 ~ 2021.2.?  
@@ -29,9 +29,9 @@
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로필](https://github.com/d-happy) 참고
-
+--->
 ---
-### 2. [GreenFood](https://github.com/9ym/GreenFood)
+### 1. [GreenFood](https://github.com/9ym/GreenFood)
 >농산물 직거래 웹사이트 (팀 프로젝트)  
 >개발 기간: 2020.12.28 ~ 2021.1.29
 >  
