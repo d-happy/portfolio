@@ -19,19 +19,16 @@
 </br>
 
 ## :file_folder: Projects
-<!---
-### 1. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2021.2.17 ~ 2021.2.?  
+### 1. toy-project-springboot-aws
+>[<스프링 부트와 AWS로 혼자 구현하는 웹 서비스>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=218568947) 참고하는 개인 프로젝트  
+>개발 기간: 2021.2.17 ~ 진행 중
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 11 / Spring Boot / Gradle
 >  
->[프로필](https://github.com/d-happy) 참고
+>[프로젝트 상세 설명](https://github.com/d-happy/toy-project-springboot-aws/tree/master) 참고
 ---
---->
-### 1. [GreenFood](https://github.com/9ym/GreenFood)
+### 2. GreenFood
 >농산물 직거래 웹사이트 (팀 프로젝트)  
 >개발 기간: 2020.12.28 ~ 2021.1.29
 >  
@@ -39,5 +36,4 @@
 >Java 8 / Spring / Maven / MyBatis / Oracle / jQuery
 >  
 >[프로젝트 상세 설명](https://github.com/9ym/GreenFood) 참고
-
 ---
