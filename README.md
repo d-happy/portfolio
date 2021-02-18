@@ -13,8 +13,8 @@
 
 ## :email: Contact
 - 이메일: durangohy@gmail.com
-- 블로그: https://d-happy.github.io/
-- 깃헙: https://github.com/d-happy
+- 블로그: [https://d-happy.github.io](https://bit.ly/37qkWd5)
+- 깃헙: [https://github.com/d-happy](https://bit.ly/3qpKuhU)
 
 </br>
 
@@ -26,7 +26,7 @@
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle
 >  
->[프로젝트 상세 설명](https://github.com/d-happy/toy-project-springboot-aws/tree/master) 참고
+>[프로젝트 상세 설명](https://bit.ly/3auS1GR) 참고
 ---
 ### 2. GreenFood
 >농산물 직거래 웹사이트 (팀 프로젝트)  
@@ -35,5 +35,5 @@
 >기술 스택:  
 >Java 8 / Spring / Maven / MyBatis / Oracle / jQuery
 >  
->[프로젝트 상세 설명](https://github.com/9ym/GreenFood) 참고
+>[프로젝트 상세 설명](https://bit.ly/3rZbDso) 참고
 ---
