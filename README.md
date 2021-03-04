@@ -12,7 +12,7 @@
 </br>
 
 ## :email: Contact
-- 이메일: durangohy@gmail.com
+- 이메일: eur18921@gmail.com
 <!-- - 블로그: [https://d-happy.github.io](https://bit.ly/37qkWd5) -->
 - 깃헙: [https://github.com/d-happy](https://bit.ly/3qpKuhU)
 
