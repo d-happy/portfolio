@@ -13,27 +13,15 @@
 
 ## :email: Contact
 - 이메일: eur18921@gmail.com
-<!-- - 블로그: [https://d-happy.github.io](https://bit.ly/37qkWd5) -->
-- 깃헙: [https://github.com/d-happy](https://bit.ly/3qpKuhU)
 
 </br>
 
 ## :file_folder: Projects
-### 1. toy-project-springboot-aws
->[<스프링 부트와 AWS로 혼자 구현하는 웹 서비스>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=218568947) 참고하는 개인 프로젝트  
->개발 기간: 2021.2.17 ~ 진행 중
->  
->기술 스택:  
->Java 11 / Spring Boot / Gradle
->  
->[프로젝트 상세 설명](https://bit.ly/3auS1GR) 참고
----
-### 2. GreenFood
+### GreenFood
 >농산물 직거래 웹사이트 (팀 프로젝트)  
 >개발 기간: 2020.12.28 ~ 2021.1.29
 >  
 >기술 스택:  
 >Java 8 / Spring / Maven / MyBatis / Oracle / jQuery
 >  
->[프로젝트 상세 설명](https://bit.ly/3rZbDso) 참고
----
+>[프로젝트 상세 설명](https://github.com/9ym/GreenFood) 참고
